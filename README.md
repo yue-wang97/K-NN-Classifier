@@ -4,7 +4,7 @@
 3. Model evaluation techniques
 
 
-We will be evaluating various K-NN models on the white wine portion of the Wine Quality dataset from UCI’s repository. In order to carry out this evaluation, we will:
+We will be evaluating various K-NN models on the white wine portion of the Wine Quality dataset from UCI’s repository:https://archive.ics.uci.edu/ml/datasets/Wine+Quality. In order to carry out this evaluation, we will:
 1. Implement two distance metrics (Euclidean and Manhattan)
 2. Implement the brute-force K-NN algorithm
 3. Implement a cross-validation function
